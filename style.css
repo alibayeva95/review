@@ -1,0 +1,19 @@
+.font{
+    padding-top: 1200px;
+    font-size: 100px;
+    font-weight: 100px;
+    font-family: sans-serif;
+    text-decoration: dashed;
+    background-color: aquamarine;
+    /* ba */
+}
+.flex{
+    display: row;
+    justify-content: center;
+    align-items: center;
+    color:black
+}
+
+.grid{
+
+}
